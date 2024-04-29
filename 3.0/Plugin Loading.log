@@ -1,0 +1,43 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files\Adobe\Adobe Audition 3.0\en_US
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files\Adobe\Adobe Audition 3.0\en_US and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\CompilerVfw.prm
+Loading from disk...
+This plugin was recognized by loader 6.
+This plugin was recognized by loader 6.
+This plugin was recognized by loader 6.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\ImporterAVI.prm
+Loading from disk...
+This plugin was recognized by loader 4.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\ImporterDirectShow.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\ImporterQT.prm
+Loading from disk...
+This plugin was recognized by loader 4.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\ImporterWindowsMedia.prm
+Loading from disk...
+This plugin was recognized by loader 4.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\PlayerStandard.prm
+Loading from disk...
+This plugin was recognized by loader 7.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\Audition Asio.dll
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\Audition.dll
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Audition 3.0\en_US\vst.dll
+The plugin is marked as Ignore, so it will not be loaded.
+

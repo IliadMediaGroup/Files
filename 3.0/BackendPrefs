@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<Preferences ObjectRef="1"/>
+	<Preferences ObjectID="1" ClassID="f06902ec-e637-4744-a586-c26202143e36" Version="29">
+		<Properties Version="1">
+			<ML.Audio.ASIOHost.DriverName>AudioScience Adapter 1</ML.Audio.ASIOHost.DriverName>
+			<BE.Prefs.ScratchDisks.FirstConformedAudioFolder>SameAsProject</BE.Prefs.ScratchDisks.FirstConformedAudioFolder>
+			<BE.Prefs.Audio.Scrubbing>true</BE.Prefs.Audio.Scrubbing>
+		</Properties>
+	</Preferences>
+</PremiereData>
